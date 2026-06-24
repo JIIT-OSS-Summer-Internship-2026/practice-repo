@@ -14,3 +14,7 @@ Students are encouraged to improve documentation and submit Pull Requests.
 ## Learning Resources
 
 See the files inside the repository for practice activities.
+## Contributor
+- Name: Sarthak04Kapoor
+- GitHub: https://github.com/Sarthak04Kapoor
+- 
