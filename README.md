@@ -8,6 +8,7 @@ This repository is used for learning:----
 - Issues
 - Reviews
 - Open Source Contributions
+- Merging Pull requests
 
 Students are encouraged to improve documentation and submit Pull Requests.
 
