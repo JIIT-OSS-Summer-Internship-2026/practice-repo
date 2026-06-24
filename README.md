@@ -14,3 +14,6 @@ Students are encouraged to improve documentation and submit Pull Requests.
 ## Learning Resources
 
 See the files inside the repository for practice activities.
+
+# Learning Status 
+Forking the repo and cloning into my pc
