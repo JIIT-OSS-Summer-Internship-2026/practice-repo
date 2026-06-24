@@ -1,6 +1,8 @@
 # Practice Repository
 
 This repository is used for learning:----
+Contributed by sermon Sharma 
+
 
 - Forking
 - Cloning
