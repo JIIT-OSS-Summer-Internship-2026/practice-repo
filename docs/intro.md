@@ -1,4 +1,4 @@
-# Open Souce Software
+# Open Source Software
 
 Open source software allows collabrative development.
 
