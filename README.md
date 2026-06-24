@@ -11,6 +11,8 @@ This repository is used for learning:----
 
 Students are encouraged to improve documentation and submit Pull Requests.
 
-## Learning Resources
+# Learning Resources
 
 See the files inside the repository for practice activities.
+changed by : (add your names)
+1) Aadarsh Dash - 2501010001
