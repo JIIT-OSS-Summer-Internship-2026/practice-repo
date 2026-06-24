@@ -1,6 +1,6 @@
 # Practice Repository
 
-This repository is used for learning:----
+This repository is used for learning Git and GitHub.
 
 - Forking
 - Cloning
