@@ -8,7 +8,7 @@
 This is the basic workflow.
 
 
-#Forking and PR
+# Forking and PR
 
 1. fork a public repository
 2. make changes in the forked repo.
