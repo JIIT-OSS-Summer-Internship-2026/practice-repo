@@ -14,3 +14,5 @@ Students are encouraged to improve documentation and submit Pull Requests.
 ## Learning Resources
 
 See the files inside the repository for practice activities.
+
+This change was done by Hardik Rawat, enrollment No. 2501030277
