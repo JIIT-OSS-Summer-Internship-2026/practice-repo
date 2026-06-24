@@ -4,6 +4,7 @@ This repository is used for learning:----
 
 - Forking
 - Cloning
+- Push
 - Pull Requests
 - Issues
 - Reviews
