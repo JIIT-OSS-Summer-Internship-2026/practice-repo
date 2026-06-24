@@ -1,6 +1,6 @@
 # Practice Repository
 
-This repository is used for learning:----
+This repository is used for learning open source contribution:----
 
 - Forking
 - Cloning
