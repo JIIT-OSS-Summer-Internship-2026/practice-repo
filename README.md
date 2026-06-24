@@ -11,6 +11,7 @@ This repository is used for learning:----
 
 Students are encouraged to improve documentation and submit Pull Requests.
 
-## Learning Resources
+
+## Testing Forking 
 
 See the files inside the repository for practice activities.
