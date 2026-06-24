@@ -2,7 +2,7 @@
 
 ## What changes were made?
 
-Describe the changes made in this PR.
+Describe the changes made in this Pull Request.
 
 ---
 
