@@ -6,4 +6,17 @@
 4. Push to GitHub
 
 This is the basc workflow.
-you all have to follow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+editing the pr (27).
