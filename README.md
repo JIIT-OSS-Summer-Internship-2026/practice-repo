@@ -15,3 +15,5 @@ Students are encouraged to improve documentation and submit Pull Requests.
 
 See the files inside the repository for practices activities.
 Shivam
+satyam
+
