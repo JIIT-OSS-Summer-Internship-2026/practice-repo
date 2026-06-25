@@ -2,7 +2,7 @@
 
 1. Creat a repository
 2. Add files
-3. Commit changes
+3. Commit the changes
 4. Push to GitHub
 
 This is the basic workflow.
