@@ -1,6 +1,6 @@
 # Useful Resources
 
-GitHub Documentation
+## GitHub Documentation
 
 https://docs.github.com
 
