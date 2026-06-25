@@ -5,4 +5,4 @@
 3. Commit changes
 4. Push to GitHub
 
-This is the basc workflow.
+This is the basic workflow.
